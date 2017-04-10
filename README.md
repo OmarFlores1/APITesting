@@ -9,9 +9,9 @@ We use Python to further manipulate the data:
 
 The result thus parsed gives:
 
-Source: Federal Reserve Economic Data
-Data type: Gross Domestic Product
-Data with values above $18,000:
+Source: Federal Reserve Economic Data  --  
+Data type: Gross Domestic Product  --  
+Data with values above $18,000:  --  
 ['2016-10-01', 18869.4]
 ['2016-07-01', 18675.3]
 ['2016-04-01', 18450.1]
