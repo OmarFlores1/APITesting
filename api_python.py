@@ -2,6 +2,7 @@ from urllib.request import urlopen
 import json
 
 # Get the dataset. Example taken from http://stackoverflow.com/questions/23049767/parsing-http-response-in-python
+# The main objective of this post is to manipulate the data retrieved and get some actionable data.
 url = 'http://www.quandl.com/api/v1/datasets/FRED/GDP.json'
 response = urlopen(url)
 
